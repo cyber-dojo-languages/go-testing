@@ -12,7 +12,5 @@
 
   "filename_extension": ".go",
 
-  "tab_size": 4,
-
-  "runner_choice": "stateless"
+  "tab_size": 4
 }
