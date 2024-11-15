@@ -1,4 +1,4 @@
-FROM cyberdojofoundation/go:f67b58f
+FROM ghcr.io/cyber-dojo-languages/go:34387ac
 LABEL maintainer=jon@jaggersoft.com
 
 COPY red_amber_green.rb /usr/local/bin
